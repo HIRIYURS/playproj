@@ -1,4 +1,4 @@
 export interface Proj {
-    Project: String;
-    Desc: String;
+    Project: string;
+    Desc: string;
 }

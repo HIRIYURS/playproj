@@ -1,5 +1,5 @@
 export interface Task {
-    Task: String;
-    Desc: String;
-    Project: String;
+    Task: string;
+    Desc: string;
+    Project: string;
 }
